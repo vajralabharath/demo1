@@ -1,0 +1,122 @@
+.firstpagebutton{
+ background:  linear-gradient(to bottom right,orangered,orange);   
+ border-width: 0;
+ border-radius: 3px;
+ color:white;
+ margin:5px;
+ height:37px;
+ font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.firstpagebutton:hover{
+    background-color: orangered;
+    color:black;
+}
+.logo-size{
+    width:100px;
+}
+.nav{
+    padding:15px;
+}
+.main_heading{
+    color:orangered;
+    font-weight: bold;
+}
+.style_of_cousole{
+    border-radius:15px;
+}
+.scrolling_symbol{
+    color:orangered;
+font-size:30px;
+}
+.scrolling_button{
+    width:80px;
+    border-radius: 15px;
+}
+.scrolling_size{
+    font-size: larger;
+}
+/*afterscrolling*/
+.image_sizeofhref{
+height:85px;
+}
+.background_image_sizeofhref{
+background-image:url('images/afterscrollingbgpic.jpg');
+border-radius: 10px;
+width:150px;
+transition: transform 0.5s;
+cursor: pointer;
+margin: 5px;
+}
+.background_image_sizeofhref:hover{
+    transform: translateY(-5px);
+}
+.background_image_sizeofhref1{
+background-image:url('images/afterscrollingbgpic2.jpg');
+background-size: cover;
+border-radius: 10px;
+transition: transform 0.5s;
+cursor: pointer;
+margin: 5px;
+}
+.background_image_sizeofhref1:hover{
+    transform: translateY(-5px);
+}
+.background_image_sizeofhref2{
+background-image:url('images/firstpageimagebg21.jpg');
+background-size: cover;
+border-radius: 10px;
+cursor: pointer;
+margin: 1px;
+padding: 5px;
+transition: transform 0.5s;
+}
+.background_image_sizeofhref2:hover{
+    transform: translateY(-5px);
+}
+.background_image_sizeofhref22{
+    background-image:url('images/firstpageimagebg22.jpg');
+    background-size: cover;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 1px;
+    padding: 5px;
+    transition: transform 0.5s;
+    }
+    .background_image_sizeofhref22:hover{
+        transform: translateY(-5px);
+    }
+.background_image_sizeofhref23{
+        background-image:url('images/firstpageimagebg23.jpg');
+        background-size: cover;
+        border-radius: 10px;
+        cursor: pointer;
+        margin: 1px;
+        padding: 5px;
+        transition: transform 0.5s;
+        }
+        .background_image_sizeofhref23:hover{
+            transform: translateY(-5px);
+        }
+    
+.background_image_sizeofhref24{
+            background-image:url('images/firstpageimagebg24.jpg');
+            background-size: cover;
+            border-radius: 10px;
+            cursor: pointer;
+            padding: 5px;
+            width: 100%;
+            transition: transform 0.5s;
+            }
+            .background_image_sizeofhref24:hover{
+                transform: translateY(-5px);
+            }
+.image_sizeofhref1{
+    width:70px;
+    height:80px;
+    margin:0;
+}
+.para{
+    color: white;
+    font-weight: bold;
+    display:inline-block;
+}
